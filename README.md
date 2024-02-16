@@ -8,3 +8,7 @@ OCI GenAI 日本語化DEMO
   - COMPARTMENT_ID
   - GENAI_ENDPOINT
   - MODEL_ID
+
+## 使い方  
+Set Promptセルの、prompt欄に質問を書く  
+max_tokensと、temperatureはお好みで
